@@ -1,9 +1,9 @@
-# test
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# Readme generator
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
 ## Description
 
-test
+Use node to create Readme file
 ## Table of Contents
 1. [Description](#description)
 2. [Installation](#installation)
@@ -14,21 +14,21 @@ test
 7. [Questions](#questions)
 
 ## Installation
-test
+Answer prompts to create Readme
 
 ## Usage
-test
+Answer questions
 
 ## License
-Apache
+MIT
 
 ## Contributing
-test
+email me
 
 ## Tests
-test
+No tests
 
 ## Questions
-For any questions please email me attest
-Or reach out to me at github.com/test
+For any questions please email me ataustinchaz11@gmail.com
+Or reach out to me at github.com/austinmetcalf
 
